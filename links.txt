@@ -1,0 +1,5 @@
+Git link - https://github.com/anurag060197/Calculator-React
+
+Docker hub link - https://hub.docker.com/repository/docker/anuragdocker060197/calculator-react123
+
+IP addres to directly access the app - http://18.116.65.227/
